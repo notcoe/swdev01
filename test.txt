@@ -1,6 +1,0 @@
-<<<<<<< HEAD
->> test Branch.. <<
-=======
->> test Branch.. <<
->> test Branch from master.. <<
->>>>>>> 4dd841b05b3493478e22a06676763a18b7b3a403
