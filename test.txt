@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 >> Test Branch on master... <<
+=======
+
+>> Test Branch on exp... <<
+>>>>>>> exp
